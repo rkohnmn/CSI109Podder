@@ -120,6 +120,35 @@ CSI109Podder/
 
 ---
 
+## Showcase & Execution Previews
+
+### Automated Weather Telemetry Simulation
+Deterministic PRNG sensor simulation with automated temperature band classification, hazardous condition detection, and sensor range checking.
+
+![Automated Weather Telemetry Simulation](docs/screenshots/01-overview.png)
+
+### Multi-Variable Fieldwork Safety Decision System
+Evaluation of compound Boolean logic assessing ambient conditions and field crew safety status.
+
+![Interactive Fieldwork Advisory Decision System](docs/screenshots/02-main-workflow.png)
+
+### Telemetry Ingestion & Sensor Outlier Validation
+Handling missing flags (`N/A`), sensor spikes (`75.4°C`), and verified telemetry point ingestion adhering to Step 2 of the Data Science Lifecycle.
+
+![Telemetry Cleaning and Outlier Ingestion](docs/screenshots/03-results.png)
+
+### Empirical Demographics & Statistical Modeling
+Municipal demographic density calculation with Python type reflection, alongside statistical survey aggregation and clock arithmetic.
+
+![Empirical Demographics and Statistical Modeling](docs/screenshots/04-statistical-analysis.png)
+
+### Cartesian Planar Mapping & Algorithmic Optimization
+2D coordinate quadrant resolution and tiered retail customer discount optimization.
+
+![Cartesian Geometry and Business Logic](docs/screenshots/05-computational-logic.png)
+
+---
+
 ## Technical Environment
 
 - **Language**: Python 3.10+
