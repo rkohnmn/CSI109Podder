@@ -38,3 +38,6 @@ ENV/
 *.swo
 .DS_Store
 Thumbs.db
+
+# Documentation build scratch
+docs/screenshots/.build/
