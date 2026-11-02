@@ -1,17 +1,10 @@
-x=int(input("What is temp in C:"))
-y=0
-if x>y:
-    print("It is hot")
-else:
-    print("It is not hot")
+x = int(input("What is temp in C: "))
 
-if x<15:
-    if x<0:
-        print("It is very cold")
-    else:
-        print("It is cold")
+if x < 0:
+    print("It is very cold")
+elif x < 15:
+    print("It is cold")
+elif x <= 25:
+    print("It is warm")
 else:
-    if x>25:
-        print("It is very hot")
-    else:
-        print("It is warm")
+    print("It is very hot")

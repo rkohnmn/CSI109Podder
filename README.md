@@ -3,8 +3,8 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Institution](https://img.shields.io/badge/Institution-Muhlenberg%20College-8b0000.svg)](https://www.muhlenberg.edu/)
 [![Course](https://img.shields.io/badge/Course-CSI%20109-informational.svg)](https://www.muhlenberg.edu/)
-[![Term](https://img.shields.io/badge/Term-Fall%202026-success.svg)]()
-[![Code Style](https://img.shields.io/badge/Code%20Style-PEP%208-brightgreen.svg)]()
+![Term](https://img.shields.io/badge/Term-Fall%202026-success.svg)
+![Code Style](https://img.shields.io/badge/Code%20Style-PEP%208-brightgreen.svg)
 
 Comprehensive coursework, laboratory assignments, computational practice problem sets, and data pipeline projects for **CSI 109: Introduction to Data Science** at **Muhlenberg College** (Fall 2026), instructed by **Dr. Proyash Podder**.
 
@@ -18,7 +18,6 @@ Comprehensive coursework, laboratory assignments, computational practice problem
 - **Majors**: Mathematics, Statistics, and Physics
 - **Athletics**: Muhlenberg College Football; All Centennial Conference Honor Roll
 - **Leadership & Campus Life**: President, Intramural Volleyball Club
-- **Education Focus**: Valid background check and fingerprint clearance for Education concentration
 - **Professional & Leadership Experience**:
   - Disney Leadership Training Program (Sophomore Year)
   - Head Chef, Weston Field Club (Summer 2026)
