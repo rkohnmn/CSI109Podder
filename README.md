@@ -69,12 +69,12 @@ Comprehensive coursework, laboratory assignments, computational practice problem
 | **03** | 09/14 – 09/18 | Conditionals, Decision Trees & Control Flow | Completed |
 | **04** | 09/21 – 09/25 | Loops & Iteration (`for`, `while`) | Completed |
 | **05** | 09/28 – 10/02 | Sequence Types & Lists | Completed |
-| **06** | 10/05 – 10/09 | Course Review & **Exam 1** | In Progress |
-| **07** | 10/12 – 10/16 | Associative Data: Dictionaries, Tuples & Sets | Upcoming |
-| **08** | 10/19 – 10/23 | Modular Programming: Functions & Modules | Upcoming |
-| **09** | 10/26 – 10/30 | File I/O & Tabular Data (CSV Handling) | Upcoming |
-| **10** | 11/02 – 11/06 | Error Handling & Exceptions (`try`/`except`) | Upcoming |
-| **11** | 11/09 – 11/13 | Comprehensive Review & **Exam 2** | Upcoming |
+| **06** | 10/05 – 10/09 | Course Review & **Exam 1** | Completed |
+| **07** | 10/12 – 10/16 | Associative Data: Dictionaries, Tuples & Sets | Completed |
+| **08** | 10/19 – 10/23 | Modular Programming: Functions & Modules | Completed |
+| **09** | 10/26 – 10/30 | File I/O & Tabular Data (CSV Handling) | Completed |
+| **10** | 11/02 – 11/06 | Error Handling & Exceptions (`try`/`except`) | Completed |
+| **11** | 11/09 – 11/13 | Comprehensive Review & **Exam 2** | In Progress |
 | **12** | 11/16 – 11/20 | Tabular Data Analysis with `pandas` | Upcoming |
 | **13** | 11/23 – 11/27 | Exploratory Visualization with `matplotlib` | Upcoming |
 | **14** | 11/30 – 12/04 | External Data Gathering: Web APIs & Web Scraping | Upcoming |
