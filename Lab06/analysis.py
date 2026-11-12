@@ -33,10 +33,10 @@ count, avg, min_temp, max_temp = summarize(valid_readings)
 print(f"n={count} mean={avg:.2f} min={min_temp} max={max_temp}")
 
 # 6. Print table of surviving readings in Celsius and Fahrenheit
-print("C F")
+print(f"{'C':>6} {'F':>6}")
 for temp_c in valid_readings:
     temp_f = celsius_to_fahrenheit(temp_c)
-    print(f"{temp_c} {temp_f:.1f}")
+    print(f"{temp_c:>6.1f} {temp_f:>6.1f}")
 
 
 # Part 3: Return vs Print
@@ -54,11 +54,13 @@ def good_mean(numbers):
 
 # 2. Call each function on test readings, storing the result in a variable
 test_readings = [72, 75, 68]
+print()
+print(f"Calling bad_mean({test_readings}) prints:")
 bad_result = bad_mean(test_readings)
 good_result = good_mean(test_readings)
 
 # 3. Print what each variable actually contains
-print(f"bad_mean printed its answer and returned {bad_result}")
+print(f"bad_mean returned {bad_result}")
 print(f"good_mean returned {good_result:.2f}, and {good_result:.2f} * 2 = {good_result * 2:.2f}")
 
 # 4 & 5. Try to use each result in a calculation (* 2) and catch the exception
